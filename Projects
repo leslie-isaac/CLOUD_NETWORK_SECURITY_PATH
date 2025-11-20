@@ -1,0 +1,23 @@
+# Projects
+
+This folder contains all my hands-on projects combining AWS, Network Engineering, Cloud Security, and Python Automation.
+
+Each project is structured to showcase:
+- Problem statement / objective  
+- Architecture or workflow (diagrams optional)  
+- Tools and technologies used  
+- Implementation steps / scripts  
+- Lessons learned
+
+## How Projects are Organized
+- Each project has its own subfolder named clearly (e.g., aws-vpc-automation, network-monitoring-tool)  
+- Inside each project folder, include:
+  - README.md (specific to that project)  
+  - Code / scripts  
+  - Diagrams or notes if necessary  
+
+## Purpose
+This folder demonstrates practical, hands-on experience and is intended for:
+- Building a professional portfolio  
+- Showcasing real skills to recruiters  
+- Documenting applied learning from my 12-month roadmap
